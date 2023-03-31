@@ -9,8 +9,6 @@ cd react-unit-converter
 
 npm install
 
-npm run build
-
 npm start
 
 ```
